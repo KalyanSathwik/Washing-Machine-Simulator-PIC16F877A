@@ -1,6 +1,6 @@
 /*
  * File:   main.c
- * Author: Manipreetham
+ * Author: Madhire Kalyan Sathwik
  *
  * Created on 11 June, 2025, 7:57 PM
  */

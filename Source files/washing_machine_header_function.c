@@ -1,6 +1,6 @@
 /* 
  * File:   washing_machine_header_function.c
- * Author: Manipreetham
+ * Author: Madhire Kalyan Sathwik
  *
  * Created on 11 June, 2025, 8:53 PM
  */

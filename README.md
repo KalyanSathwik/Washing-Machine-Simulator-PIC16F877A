@@ -62,10 +62,10 @@ washing-machine-simulator/
 
 ---
 
-## 📸 Demo (Optional)
+## 📸 Demo
 
-*A short video or GIF showing the simulation in action will be added here soon.*
-
+[*A short video or GIF showing the simulation in action will be added here soon.*
+](https://www.youtube.com/watch?v=2VM3PGXmLe8)
 ---
 
 ## 📑 License

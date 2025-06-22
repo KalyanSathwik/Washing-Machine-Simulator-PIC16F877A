@@ -64,7 +64,7 @@ washing-machine-simulator/
 
 ## 📸 Demo
 
-[*A short video or GIF showing the simulation in action will be added here soon.*
+[*A Demonstration Video showing Real-Time working of the Washing Machine Simulator.*
 ](https://www.youtube.com/watch?v=2VM3PGXmLe8)
 ---
 

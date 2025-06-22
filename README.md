@@ -1,4 +1,4 @@
-# 🧼 Washing Machine Simulator using PIC16F877A
+e# 🧼 Washing Machine Simulator using PIC16F877A
 
 This project simulates a basic washing machine operation using the **PIC16F877A** microcontroller. The embedded C code is written and compiled using **MPLAB X IDE** with the **XC8 compiler**. The logic is tested and simulated using **PICSimLab** on the **PICGenios** board.
 
@@ -65,7 +65,7 @@ washing-machine-simulator/
 ## 📸 Demo
 
 [*A Demonstration Video showing Real-Time working of the Washing Machine Simulator.*
-](https://www.youtube.com/watch?v=2VM3PGXmLe8)
+](https://www.youtube.com/watch?v=v5Qme13pObU)
 ---
 
 ## 📑 License
